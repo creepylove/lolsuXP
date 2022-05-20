@@ -1,0 +1,113 @@
+{
+    "Prod" : {
+        "Microwave" : {
+            "Name" : "Mikrowelle",
+            "Desc" : "Einfach die Instant-Lolsus in die Mikrowelle. 1:30 Minute bei 900 Watt. Und zack: Lolsus"
+        },
+        "Oven" : {
+            "Name" : "Ofen",
+            "Desc" : "Dir ist deine Mikrowelle nicht genug? Versuchs mit nem Ofen!"
+        },
+        "Tree" : {
+            "Name" : "Baum",
+            "Desc" : "Pflanz einen Lolsu-Baum im Garten. Blüht im Sommer. Früchte reif im Herbst"
+        },
+        "Magic" : {
+            "Name" : "Magie",
+            "Desc" : "BRUDAAHH!! MAGIIEE!"
+        },
+        "Restaurant" : {
+            "Name" : "Restaurant",
+            "Desc" : "Öffne Restaurants überall auf der Welt und werde die neue goto Fast-Food-Kette mit deinen geheimen Lolsu-Rezepten!"
+        },
+    },
+    "Up" : {
+        "Total" : {
+            "Vitamin" : {
+                "Name" : "Vitamin B",
+                "Desc" : "Gute Beziehungen mit Geschäftspartnern lassen dich +20%p mehr Lolsus erwirtschaften!",
+            },
+            "Mustache" : {
+                "Name" : "Schnorres",
+                "Desc" : "Nichts geht über einen guten Schnurrbart. +50%p auf allen Profit!",
+            },
+            "Talent" : {
+                "Name" : "Finanzielles Talent",
+                "Desc" : "Extrem gute finanzielle Planung vervierfacht allen Profit! Sheesh",
+            },
+        },
+        "Click" : {
+            "Gloves" : {
+                "Name" : "Handschuhe",
+                "Desc" : "Freshe neue Handschuhe lassen dich doppelt so stark klicken!",
+                
+                "Leather" : {
+                    "Name" : "Lederhandschuhe",
+                    "Desc" : "Guck, dass du nicht in die Midlife-Crisis fällst! Vervierfacht Klickstärke",
+                },
+                "Bronze" : {
+                    "Name" : "Bronzehandschuhe",
+                    "Desc" : "Hält einen zwar nicht mehr warm aber hält sicherlich ein Messer aus. Vervierfacht Klickstärke",
+                },
+                "Iron" : {
+                    "Name" : "Eisenhandschuhe",
+                    "Desc" : "Bissel weniger lumpig wie Bronze aber den Sinn versteh ich trotzdem nicht. Verzehnfacht Klickstärke",
+                },
+                "Silver" : {
+                    "Name" : "Silberhandschuhe",
+                    "Desc" : "was. ich mein es versechsfacht klickstärke aber silberhandschuhe, ernsthaft?",
+                },
+                "Ruby" : {
+                    "Name" : "Rubinhandschuhe",
+                    "Desc" : "Inzwischen flext du einfach nur noch. Verdoppelt Klickstärke",
+                },
+                "Saphire" : {
+                    "Name" : "Saphirhandschuhe",
+                    "Desc" : "Versteh ich zwar nicht aber juckt auch net. Vervierfacht Klickstärke",
+                },
+                "Golden" : {
+                    "Name" : "Goldene Handschuhe",
+                    "Desc" : "Schüüü alter willst noch ne Rolex dazu? Verdreißigfacht Klickstärke",
+                },
+            },
+        },
+        "Prod" : {
+            "Microwave" : {
+                "Watt" : {
+                    "Name" : "Mehr Watt",
+                    "Desc" : "Erhöht die maximale Wattanzahl bei Mikrowellen von 900 um 50%p auf 1350!",
+                },
+            },
+            "Oven" : {
+                "Paper" : {
+                    "Name" : "Premium Backpapier",
+                    "Desc" : "Das neuste, beste Premium Backpapier erhöht die Ofen-Produktion von Lolsus um 25%p!",
+                },
+            },
+        },
+    },
+    "Ui" : {
+        "Shop" : {
+            "Label" : "Der Lolsu-Markt",
+            "PriceProd" : "Preis: <color={0}>{1}</color>\nProduziert: {2}",
+            "PriceUp" : "{0}\nPreis: <color={1}>{2}</color>",
+        },
+        "Data" : {
+            "SaveManual" : "Manuell gespeichert!",
+            "SaveAutomatic" : "Automatisch gespeichert!",
+            "Loaded" : "Spielstand erfolgreich geladen",
+            "ResetConfirm" : "Bitte nochmal 'RESET' drücken um zu bestätigen, dass dieser Spielstand für immer gelöscht wird",
+        },
+        "Suffixes" : [
+            "",
+            "Tausend",
+            "Millionen",
+            "Milliarden",
+            "Billionen",
+            "Billiarden",
+            "Trillionen",
+            "Trilliarden",
+            "Anatonsche",
+        ],
+    },
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: GlovesT5
+  m_EditorClassIdentifier: 
+  uid: UpClickGlovesRuby
+  name: Rubinhandschuhe
+  desc: "Inzwischen flext du einfach nur noch. Verdoppelt Klickst\xE4rke"
+  sprite: {fileID: 21300000, guid: 07636cd3f139e7d9b92d800d34037daa, type: 3}
+  cost: 345678
+  upgradeType: 0
+  affectedProducer: {fileID: 0}
+  multiplier: 2
+  multiplierAdditive: 0

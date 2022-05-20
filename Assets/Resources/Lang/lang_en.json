@@ -1,0 +1,113 @@
+{
+    "Prod" : {
+        "Microwave" : {
+            "Name" : "Microwave",
+            "Desc" : "Instant-Lolsus in. 1.5 minutes at 900 watts. And there you go"
+        },
+        "Oven" : {
+            "Name" : "Oven",
+            "Desc" : "Don't like your microwave? What about this oven"
+        },
+        "Tree" : {
+            "Name" : "Tree",
+            "Desc" : "Plant a Lolsu-Tree. Blossoms in summer. Fruits are ready in autumn"
+        },
+        "Magic" : {
+            "Name" : "Magic",
+            "Desc" : "*insert flute harry potter music*"
+        },
+        "Restaurant" : {
+            "Name" : "Restaurant",
+            "Desc" : "Open restaurants all over the world and become the new goto fast food chain with your secret lolsu recipes!"
+        },
+    },
+    "Up" : {
+        "Total" : {
+            "Vitamin" : {
+                "Name" : "Vitamin B",
+                "Desc" : "Good relations with business partners let you gain +20%p more Lolsus!",
+            },
+            "Mustache" : {
+                "Name" : "Mustache",
+                "Desc" : "Nothing's better than a good mustache. +50%p on all profit!",
+            },
+            "Talent" : {
+                "Name" : "Financial Talent",
+                "Desc" : "Extremely good financial planning quadruples all profit! Sheesh",
+            },
+        },
+        "Click" : {
+            "Gloves" : {
+                "Name" : "Gloves",
+                "Desc" : "Fresh new gloves let you click twice as strong!",
+                
+                "Leather" : {
+                    "Name" : "Leather Gloves",
+                    "Desc" : "Don't fall into the midlife crisis! Quadruples click strength",
+                },
+                "Bronze" : {
+                    "Name" : "Bronze Gloves",
+                    "Desc" : "Doesn't keep you warm but surely survives a knife! Quadruples click strength",
+                },
+                "Iron" : {
+                    "Name" : "Iron Gloves",
+                    "Desc" : "Little less shabby than bronze but I don't understand why. Increases click strength tenfold",
+                },
+                "Silver" : {
+                    "Name" : "Silver Gloves",
+                    "Desc" : "what? seriously? Sextuples click strength",
+                },
+                "Ruby" : {
+                    "Name" : "Ruby Gloves",
+                    "Desc" : "This is just flexing at this point. Doubles click strength",
+                },
+                "Saphire" : {
+                    "Name" : "Saphire Gloves",
+                    "Desc" : "I still don't understandy why but who cares. Quadruples click strength",
+                },
+                "Golden" : {
+                    "Name" : "Golden Gloves",
+                    "Desc" : "Sheeesh, you want a rolex with it? Increases click strength thirtyfold",
+                },
+            },
+        },
+        "Prod" : {
+            "Microwave" : {
+                "Watt" : {
+                    "Name" : "More Watts",
+                    "Desc" : "Increases the maximum wattage of Microwaves from 900 by 50%p to 1350!",
+                },
+            },
+            "Oven" : {
+                "Paper" : {
+                    "Name" : "Premium Baking Paper",
+                    "Desc" : "The newset, best Premium Baking Paper increases the Oven-Production of Lolsus by 25%p!",
+                },
+            },
+        },
+    },
+    "Ui" : {
+        "Shop" : {
+            "Label" : "The Lolsu Market",
+            "PriceProd" : "Price: <color={0}>{1}</color>\nProduces: {2}",
+            "PriceUp" : "{0}\nPrice: <color={1}>{2}</color>",
+        },
+        "Data" : {
+            "SaveManual" : "Manually saved!",
+            "SaveAutomatic" : "Automatically saved!",
+            "Loaded" : "Successfully loaded savestate",
+            "ResetConfirm" : "Please press 'RESET' again to confirm that this savestate will be deleted forever",
+        },
+        "Suffixes" : [
+            "",
+            "Thousand",
+            "Million",
+            "Billion",
+            "Trillion",
+            "Quadrillion",
+            "Quintillion",
+            "Sextillion",
+            "Too Many",
+        ],
+    }
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: Mehr Watt
+  m_EditorClassIdentifier: 
+  uid: UpProdMicrowaveWatt
+  name: Mehr Watt
+  desc: "Erh\xF6ht die maximale Wattanzahl bei Mikrowellen von 900 um 50%p auf 1350!"
+  sprite: {fileID: 21300000, guid: 3bfb4521192be86098bc1b3ab0327b78, type: 3}
+  cost: 160
+  upgradeType: 1
+  affectedProducer: {fileID: 11400000, guid: e05149e913eaad9d9a552e2cb43b8519, type: 2}
+  multiplier: 1
+  multiplierAdditive: 0.5

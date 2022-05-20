@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: GlovesT1
+  m_EditorClassIdentifier: 
+  uid: UpClickGlovesLeather
+  name: Lederhandschuhe
+  desc: "Guck, dass du nicht in die Midlife-Crisis f\xE4llst! Vervierfacht Klickst\xE4rke"
+  sprite: {fileID: 21300000, guid: 346c3a20d62db8ef28973f6d4cd7b412, type: 3}
+  cost: 777
+  upgradeType: 0
+  affectedProducer: {fileID: 0}
+  multiplier: 4
+  multiplierAdditive: 0

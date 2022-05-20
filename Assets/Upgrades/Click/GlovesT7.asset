@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: GlovesT7
+  m_EditorClassIdentifier: 
+  uid: UpClickGlovesGolden
+  name: Goldene Handschuhe
+  desc: "Sch\xFC\xFC\xFC alter willst noch ne Rolex dazu? Verdrei\xDFigfacht Klickst\xE4rke"
+  sprite: {fileID: 21300000, guid: 44e75a0fb54573b3ea43fc4b60b19ce2, type: 3}
+  cost: 45000000
+  upgradeType: 0
+  affectedProducer: {fileID: 0}
+  multiplier: 30
+  multiplierAdditive: 0

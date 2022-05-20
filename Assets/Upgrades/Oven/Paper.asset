@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: Paper
+  m_EditorClassIdentifier: 
+  uid: UpProdOvenPaper
+  name: Premium Backpapier
+  desc: "Das neuste, beste Premium Backpapier erh\xF6ht die Ofen-Produktion von Lolsus
+    um 25%p!"
+  sprite: {fileID: 21300000, guid: 0a9de496d81f5d6fa80d7ec65040b41d, type: 3}
+  cost: 500
+  upgradeType: 1
+  affectedProducer: {fileID: 11400000, guid: 4e59aa7e044012c6699840128f5bbdbb, type: 2}
+  multiplier: 1
+  multiplierAdditive: 0.25

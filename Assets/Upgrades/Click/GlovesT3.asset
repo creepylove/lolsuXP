@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: GlovesT3
+  m_EditorClassIdentifier: 
+  uid: UpClickGlovesIron
+  name: Eisenhandschuhe
+  desc: "Bissel weniger lumpig wie Bronze aber den Sinn versteh ich trotzdem nicht.
+    Verzehnfacht Klickst\xE4rke"
+  sprite: {fileID: 21300000, guid: 5c71545fab011547a9432f9b949158fd, type: 3}
+  cost: 33333
+  upgradeType: 0
+  affectedProducer: {fileID: 0}
+  multiplier: 10
+  multiplierAdditive: 0

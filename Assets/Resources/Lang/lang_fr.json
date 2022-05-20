@@ -1,0 +1,112 @@
+{
+    "Prod" : {
+        "Microwave" : {
+            "Name" : "Micro-onde",
+            "Desc" : "Il suffit de mettre les lolsus instantané au micro-ondes. 1:30 minutes à 900 watts. Et boum : Lolsus"
+        },
+        "Oven" : {
+            "Name" : "Four",
+            "Desc" : "Tu n'aime pas le micro-onde ? Essayez un four !"
+        },
+        "Tree" : {
+            "Name" : "Arbre",
+            "Desc" : "Plantez un arbre Lolsu dans le jardin. Fleurit en été. Les fruits mûrissent en automne"
+        },
+        "Magic" : {
+            "Name" : "Magie",
+            "Desc" : "Personne ne sait comment ça marche, mais l'essentiel est que ça marche"
+        },
+        "Restaurant" : {
+            "Name" : "Restaurant",
+            "Desc" : "Ouvrez des restaurants partout dans le monde et devenez la nouvelle chaîne de restauration rapide incontournable avec vos recettes secrètes de lolsu !"
+        },
+    },
+    "Up" : {
+        "Total" : {
+            "Vitamin" : {
+                "Name" : "Vitamine B",
+                "Desc" : "De bonnes relations avec les partenaires commerciaux vous permettent de générer +20 %p de Lolsus en plus !",
+            },
+            "Mustache" : {
+                "Name" : "Moustache",
+                "Desc" : "Rien ne vaut une bonne moustache. +50 % sur tous les bénéfices !",
+            },
+            "Talent" : {
+                "Name" : "Talent Financier",
+                "Desc" : "Une très bonne planification financière quadruple tous les bénéfices ! Impressive",
+            },
+        },
+        "Click" : {
+            "Gloves" : {
+                "Name" : "Gants",
+                "Desc" : "De nouveaux gants frais vous font cliquer deux fois plus fort !",
+                
+                "Leather" : {
+                    "Name" : "Gants De Cuir",
+                    "Desc" : "Ne tombez pas dans la crise de la quarantaine ! Force de clic quadruple",
+                },
+                "Bronze" : {
+                    "Name" : "Gants De Bronze",
+                    "Desc" : "Ne vous garde plus au chaud, mais résistera certainement à un couteau. Force de clic quadruple",
+                },
+                "Iron" : {
+                    "Name" : "Gants De Fer",
+                    "Desc" : "Un peu moins fragile que le bronze, mais je ne comprends toujours pas l'intérêt. Force de clic décuplée",
+                },
+                "Silver" : {
+                    "Name" : "Gants De Argent",
+                    "Desc" : "Quelle? sérieusement? gants d'argent? Force de clic multipliée par six",
+                },
+                "Ruby" : {
+                    "Name" : "Gants De Rubis",
+                    "Desc" : "Maintenant, vous ne faites que vous montrer. Force de clic doublée",
+                },
+                "Saphire" : {
+                    "Name" : "Gants De Saphir",
+                    "Desc" : "Je ne comprends pas, mais je m'en fous. Force de clic quadruple",
+                },
+                "Golden" : {
+                    "Name" : "Gants Dorés",
+                    "Desc" : "Voulez-vous une Rolex pour l'accompagner ? Trente fois la force du clic",
+                },
+            },
+        },
+        "Prod" : {
+            "Microwave" : {
+                "Watt" : {
+                    "Name" : "Plus De Watts",
+                    "Desc" : "Augmente la puissance maximale des micro-ondes de 50 %p de 900 à 1350 !",
+                },
+            },
+            "Oven" : {
+                "Paper" : {
+                    "Name" : "Papier cuisson haut de gamme",
+                    "Desc" : "Le tout nouveau papier sulfurisé haut de gamme augmente la production du four Lolsus de 25 %p !",
+                },
+            },
+        },
+    },
+    "Ui" : {
+        "Shop" : {
+            "Label" : "Le marché de Lolsu",
+            "PriceProd" : "Prix: <color={0}>{1}</color>\nProduit: {2}",
+            "PriceUp" : "{0}\nPrix: <color={1}>{2}</color>",
+        },
+        "Data" : {
+            "SaveManual" : "Sauvegardée manuellement!",
+            "SaveAutomatic" : "Sauvegardée automatiquement!",
+            "Loaded" : "Jeu chargé avec succès",
+            "ResetConfirm" : "Veuillez appuyer à nouveau sur 'RESET' pour confirmer que cette sauvegarde sera définitivement supprimée",
+        },
+        "Suffixes" : [
+            "",
+            "Mille",
+            "Million",
+            "Milliard",
+            "Billion",
+            "Billiard",
+            "Trillion",
+            "Trilliard",
+        ],
+    },
+}

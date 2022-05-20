@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ced5667ca68db015a276248f431be3b, type: 3}
+  m_Name: GlovesT2
+  m_EditorClassIdentifier: 
+  uid: UpClickGlovesBronze
+  name: Bronzehandschuhe
+  desc: "H\xE4lt einen zwar nicht mehr warm aber h\xE4lt sicherlich ein Messer aus.
+    Vervierfacht Klickst\xE4rke"
+  sprite: {fileID: 21300000, guid: 1afa6aff66d52b953880737341504ba3, type: 3}
+  cost: 2400
+  upgradeType: 0
+  affectedProducer: {fileID: 0}
+  multiplier: 4
+  multiplierAdditive: 0
